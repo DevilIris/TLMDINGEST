@@ -1,0 +1,8 @@
+{
+  "name": "Ingest_Tlmd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "cf74dd9f"
+}
